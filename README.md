@@ -2,10 +2,15 @@ Using a graph, this project parses a file that contains sorted words
 regardless of the symbol used. For example, a file such as 
 
 #$%!
+ 
 &%@^(*
+
 ^&*(
+
 @#%&!@
+
 ^*&(
+
 ...
 
 can be parsed to determine an "alphabet" with the assumption that
